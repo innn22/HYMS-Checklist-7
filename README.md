@@ -135,7 +135,7 @@
     const $ = (id)=>document.getElementById(id);
 
     /* 대표 사진 경로 (같은 도메인 권장) */
-    const HERO_SRC = '타워크레인.png';
+    const HERO_SRC = '타워.png';
 
     const PLACEHOLDER_THUMB = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="192" height="144"><rect width="100%" height="100%" fill="%23eef2f7"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-size="12" fill="%2399a">참고사진</text></svg>';
 
