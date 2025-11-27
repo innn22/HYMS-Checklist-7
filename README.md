@@ -184,28 +184,10 @@
         refImg:'트롤리.png'
       },
       {
-        key:'ladder_platform',
-        label:'주요구조부',
-        method:'주요 구조부의 변형, 손상 및 조립부, 작동부에 이상이 없을 것',
-        refImg:'주요구조.png'
-      },
-      {
-        key:'electric_panel',
-        label:'풍속계',
-        method:'풍속계가 부착되고 정상작동할 것',
-        refImg:'풍속계.png'
-      },
-      {
         key:'cab_controls',
         label:'운전실',
         method:'조이스틱·페달·비상정지버튼 등의 파손·이탈 여부와 계기판 경고등 이상 유무를 확인하고, 소화기를 비치할 것.',
         refImg:'운전실.png'
-      },
-      {
-        key:'surrounding_area',
-        label:'브레이크',
-        method:'브레이크, 클러치, 운전장치 등의 기능이 정상일 것',
-        refImg:'주변작업.png'
       }
     ];
 
